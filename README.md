@@ -43,6 +43,8 @@ The initial LinRegPCR method, developed by Untergasser et al. (2021), is license
 
 http://creativecommons.org/licenses/by/4.0/
 
+Note: This code is still in progress and requires further optimizations (like using vector functions instead of loops, implementing statistics test to the generated data...).   
+
 ## References 
 1. Untergasser, A., Ruijter, J.M., Benes, V. et al. Web-based LinRegPCR: application for the visualization and analysis of (RT)-qPCR amplification and melting data. BMC Bioinformatics 22, 398 (2021). https://doi.org/10.1186/s12859-021-04306-1
 
